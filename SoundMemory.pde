@@ -1,5 +1,3 @@
-// never fear perfection ...
-
 import ddf.minim.Minim;
 import ddf.minim.AudioOutput;
 import ddf.minim.signals.SineWave;
