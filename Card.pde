@@ -1,5 +1,3 @@
-// ... and strive (to) perfection :)
-
 public class Card {
 
   private int xPos;
